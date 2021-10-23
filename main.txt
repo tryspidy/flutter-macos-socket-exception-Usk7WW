@@ -1,0 +1,9 @@
+Add
+
+<key>com.apple.security.network.client</key>
+<true/>
+
+
+to file under directory 
+macos/Runner/DebugProfile.entitlements and 
+macos/Runner/ReleaseProfile.entitlements
